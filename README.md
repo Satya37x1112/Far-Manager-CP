@@ -2,7 +2,6 @@
 
 This repository contains my daily solutions to Data Structures and Algorithms problems, developed using a high-efficiency **Far Manager** setup on Linux Mint.
 
----
 
 ## My Setup
 - **Language:** C++14
